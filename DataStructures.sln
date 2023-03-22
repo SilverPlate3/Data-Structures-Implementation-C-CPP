@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Queue", "Queue\Queue.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Binary Heap", "Binary Heap\Binary Heap.vcxproj", "{A8BCF06E-5DE5-4B4D-A5F0-FCC2FDC53160}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Union Find (Path Compress)", "Union Find (Path Compress)\Union Find (Path Compress).vcxproj", "{9188FCE1-BE99-451B-BABD-E06D2421B042}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{A8BCF06E-5DE5-4B4D-A5F0-FCC2FDC53160}.Release|x64.Build.0 = Release|x64
 		{A8BCF06E-5DE5-4B4D-A5F0-FCC2FDC53160}.Release|x86.ActiveCfg = Release|Win32
 		{A8BCF06E-5DE5-4B4D-A5F0-FCC2FDC53160}.Release|x86.Build.0 = Release|Win32
+		{9188FCE1-BE99-451B-BABD-E06D2421B042}.Debug|x64.ActiveCfg = Debug|x64
+		{9188FCE1-BE99-451B-BABD-E06D2421B042}.Debug|x64.Build.0 = Debug|x64
+		{9188FCE1-BE99-451B-BABD-E06D2421B042}.Debug|x86.ActiveCfg = Debug|Win32
+		{9188FCE1-BE99-451B-BABD-E06D2421B042}.Debug|x86.Build.0 = Debug|Win32
+		{9188FCE1-BE99-451B-BABD-E06D2421B042}.Release|x64.ActiveCfg = Release|x64
+		{9188FCE1-BE99-451B-BABD-E06D2421B042}.Release|x64.Build.0 = Release|x64
+		{9188FCE1-BE99-451B-BABD-E06D2421B042}.Release|x86.ActiveCfg = Release|Win32
+		{9188FCE1-BE99-451B-BABD-E06D2421B042}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
