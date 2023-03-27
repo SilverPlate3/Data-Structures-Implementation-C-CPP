@@ -31,7 +31,7 @@ void BinarySearchTree::Insert(int value)
 		return;
 	}
 
-	Insert(value, std::make_unique<Node>(value));
+	Insert(value, m_rootNode);
 }
 
 void BinarySearchTree::Insert(int value, const std::unique_ptr<Node>& currentNode)
