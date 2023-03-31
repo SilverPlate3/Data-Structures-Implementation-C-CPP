@@ -15,12 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="HashTable_SeparateChaining.cpp">
+    <ClCompile Include="HashTableSeparateChaining.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="HashTable_SeparateChaining.h">
+    <ClInclude Include="HashTableSeparateChaining.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

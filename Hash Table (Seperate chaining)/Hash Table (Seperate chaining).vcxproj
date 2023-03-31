@@ -128,10 +128,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="HashTable_SeparateChaining.cpp" />
+    <ClCompile Include="HashTableSeparateChaining.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="HashTable_SeparateChaining.h" />
+    <ClInclude Include="HashTableSeparateChaining.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
