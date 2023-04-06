@@ -17,7 +17,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Union Find (Path Compress)"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Binary Search Tree", "Binary Search Tree\Binary Search Tree.vcxproj", "{CE72C0CB-66A2-486C-8E08-1E0E50D633E3}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hash Table (Seperate chaining)", "Hash Table (Seperate chaining)\Hash Table (Seperate chaining).vcxproj", "{74C731BB-52C7-45D9-9A43-3B703766D005}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hash Table (Separate chaining)", "Hash Table (Seperate chaining)\Hash Table (Seperate chaining).vcxproj", "{74C731BB-52C7-45D9-9A43-3B703766D005}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Prefix Sum Array", "Prefix Sum Array\Prefix Sum Array.vcxproj", "{AD6137E8-0AC2-4064-BF42-9AC8A9802E74}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -91,6 +93,14 @@ Global
 		{74C731BB-52C7-45D9-9A43-3B703766D005}.Release|x64.Build.0 = Release|x64
 		{74C731BB-52C7-45D9-9A43-3B703766D005}.Release|x86.ActiveCfg = Release|Win32
 		{74C731BB-52C7-45D9-9A43-3B703766D005}.Release|x86.Build.0 = Release|Win32
+		{AD6137E8-0AC2-4064-BF42-9AC8A9802E74}.Debug|x64.ActiveCfg = Debug|x64
+		{AD6137E8-0AC2-4064-BF42-9AC8A9802E74}.Debug|x64.Build.0 = Debug|x64
+		{AD6137E8-0AC2-4064-BF42-9AC8A9802E74}.Debug|x86.ActiveCfg = Debug|Win32
+		{AD6137E8-0AC2-4064-BF42-9AC8A9802E74}.Debug|x86.Build.0 = Debug|Win32
+		{AD6137E8-0AC2-4064-BF42-9AC8A9802E74}.Release|x64.ActiveCfg = Release|x64
+		{AD6137E8-0AC2-4064-BF42-9AC8A9802E74}.Release|x64.Build.0 = Release|x64
+		{AD6137E8-0AC2-4064-BF42-9AC8A9802E74}.Release|x86.ActiveCfg = Release|Win32
+		{AD6137E8-0AC2-4064-BF42-9AC8A9802E74}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
