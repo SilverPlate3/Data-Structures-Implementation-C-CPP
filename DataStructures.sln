@@ -23,7 +23,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Prefix Sum Array", "Prefix 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Binary Indexed Tree (Fenwick Tree)", "Binary Indexed Tree (Fenwick Tree)\Binary Indexed Tree (Fenwick Tree).vcxproj", "{3DC8B505-E882-4C88-998B-FCCDE24282A5}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Suffix and LCP arrays", "Suffix and LCP arrays\Suffix and LCP arrays.vcxproj", "{95373E34-D393-44B1-AFE2-61FFF010970F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Balanced Binary Search Tree (AVL)", "Balanced Binary Search Tree (AVL)\Balanced Binary Search Tree (AVL).vcxproj", "{16F95C6D-3839-4913-AE7E-58AB3F0556AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -113,14 +113,14 @@ Global
 		{3DC8B505-E882-4C88-998B-FCCDE24282A5}.Release|x64.Build.0 = Release|x64
 		{3DC8B505-E882-4C88-998B-FCCDE24282A5}.Release|x86.ActiveCfg = Release|Win32
 		{3DC8B505-E882-4C88-998B-FCCDE24282A5}.Release|x86.Build.0 = Release|Win32
-		{95373E34-D393-44B1-AFE2-61FFF010970F}.Debug|x64.ActiveCfg = Debug|x64
-		{95373E34-D393-44B1-AFE2-61FFF010970F}.Debug|x64.Build.0 = Debug|x64
-		{95373E34-D393-44B1-AFE2-61FFF010970F}.Debug|x86.ActiveCfg = Debug|Win32
-		{95373E34-D393-44B1-AFE2-61FFF010970F}.Debug|x86.Build.0 = Debug|Win32
-		{95373E34-D393-44B1-AFE2-61FFF010970F}.Release|x64.ActiveCfg = Release|x64
-		{95373E34-D393-44B1-AFE2-61FFF010970F}.Release|x64.Build.0 = Release|x64
-		{95373E34-D393-44B1-AFE2-61FFF010970F}.Release|x86.ActiveCfg = Release|Win32
-		{95373E34-D393-44B1-AFE2-61FFF010970F}.Release|x86.Build.0 = Release|Win32
+		{16F95C6D-3839-4913-AE7E-58AB3F0556AE}.Debug|x64.ActiveCfg = Debug|x64
+		{16F95C6D-3839-4913-AE7E-58AB3F0556AE}.Debug|x64.Build.0 = Debug|x64
+		{16F95C6D-3839-4913-AE7E-58AB3F0556AE}.Debug|x86.ActiveCfg = Debug|Win32
+		{16F95C6D-3839-4913-AE7E-58AB3F0556AE}.Debug|x86.Build.0 = Debug|Win32
+		{16F95C6D-3839-4913-AE7E-58AB3F0556AE}.Release|x64.ActiveCfg = Release|x64
+		{16F95C6D-3839-4913-AE7E-58AB3F0556AE}.Release|x64.Build.0 = Release|x64
+		{16F95C6D-3839-4913-AE7E-58AB3F0556AE}.Release|x86.ActiveCfg = Release|Win32
+		{16F95C6D-3839-4913-AE7E-58AB3F0556AE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
