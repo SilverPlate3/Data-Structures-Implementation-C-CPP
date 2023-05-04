@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Balanced Binary Search Tree
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LRU Cache", "LRU Cache\LRU Cache.vcxproj", "{D8A184B1-AF70-410C-AF54-89812C4C7C9F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BFS (Breadth First Search)", "BFS (Breadth First Search)\BFS (Breadth First Search).vcxproj", "{B5B3B1DE-C067-46E0-B9AE-1171DF1651E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{D8A184B1-AF70-410C-AF54-89812C4C7C9F}.Release|x64.Build.0 = Release|x64
 		{D8A184B1-AF70-410C-AF54-89812C4C7C9F}.Release|x86.ActiveCfg = Release|Win32
 		{D8A184B1-AF70-410C-AF54-89812C4C7C9F}.Release|x86.Build.0 = Release|Win32
+		{B5B3B1DE-C067-46E0-B9AE-1171DF1651E9}.Debug|x64.ActiveCfg = Debug|x64
+		{B5B3B1DE-C067-46E0-B9AE-1171DF1651E9}.Debug|x64.Build.0 = Debug|x64
+		{B5B3B1DE-C067-46E0-B9AE-1171DF1651E9}.Debug|x86.ActiveCfg = Debug|Win32
+		{B5B3B1DE-C067-46E0-B9AE-1171DF1651E9}.Debug|x86.Build.0 = Debug|Win32
+		{B5B3B1DE-C067-46E0-B9AE-1171DF1651E9}.Release|x64.ActiveCfg = Release|x64
+		{B5B3B1DE-C067-46E0-B9AE-1171DF1651E9}.Release|x64.Build.0 = Release|x64
+		{B5B3B1DE-C067-46E0-B9AE-1171DF1651E9}.Release|x86.ActiveCfg = Release|Win32
+		{B5B3B1DE-C067-46E0-B9AE-1171DF1651E9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
