@@ -15,15 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Node.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="Graphs.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BFS %28not the normal implementation%29.cpp">
+    <ClCompile Include="BFS.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
