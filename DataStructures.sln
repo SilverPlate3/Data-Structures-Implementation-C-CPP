@@ -31,6 +31,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BFS (Breadth First Search)"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DFS", "DFS\DFS.vcxproj", "{BB7731CB-05E4-43FC-B632-3FDF52F74C0A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sorting Algorithms", "Sorting Algorithms\Sorting Algorithms.vcxproj", "{1188E1E9-26F6-4CA1-A3D2-B803D356B258}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -151,6 +153,14 @@ Global
 		{BB7731CB-05E4-43FC-B632-3FDF52F74C0A}.Release|x64.Build.0 = Release|x64
 		{BB7731CB-05E4-43FC-B632-3FDF52F74C0A}.Release|x86.ActiveCfg = Release|Win32
 		{BB7731CB-05E4-43FC-B632-3FDF52F74C0A}.Release|x86.Build.0 = Release|Win32
+		{1188E1E9-26F6-4CA1-A3D2-B803D356B258}.Debug|x64.ActiveCfg = Debug|x64
+		{1188E1E9-26F6-4CA1-A3D2-B803D356B258}.Debug|x64.Build.0 = Debug|x64
+		{1188E1E9-26F6-4CA1-A3D2-B803D356B258}.Debug|x86.ActiveCfg = Debug|Win32
+		{1188E1E9-26F6-4CA1-A3D2-B803D356B258}.Debug|x86.Build.0 = Debug|Win32
+		{1188E1E9-26F6-4CA1-A3D2-B803D356B258}.Release|x64.ActiveCfg = Release|x64
+		{1188E1E9-26F6-4CA1-A3D2-B803D356B258}.Release|x64.Build.0 = Release|x64
+		{1188E1E9-26F6-4CA1-A3D2-B803D356B258}.Release|x86.ActiveCfg = Release|Win32
+		{1188E1E9-26F6-4CA1-A3D2-B803D356B258}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
